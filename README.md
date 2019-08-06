@@ -1,0 +1,1 @@
+#A Python OpenCv project to detetct objects using their HSV values
